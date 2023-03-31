@@ -15,6 +15,11 @@ public class Mapping {
 
     public Mapping(){}
 
+    public Mapping(String className, String method) {
+        this.className = className;
+        this.method = method;
+    }
+
     public void setClassName(String className) {
         this.className=className;   
     }
