@@ -5,7 +5,7 @@
         <servlet-class>etu1928.framework.servlet.FrontServlet</servlet-class>
         <init-param>
             <param-name>packages</param-name>
-            <param-value>etu1928.packages</param-value>
+            <param-value>etu1928.test_class</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
